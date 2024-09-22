@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    
+    background-color: rgb(0, 40, 12);
+    height: 50px;
+    display:flex ;
+    justify-content: space-between; 
+    align-items: center;
+    color: white;
+
+    nav{
+        display: flex;
+        justify-content: space-evenly; width: 40%;
+        align-items: center;
+        margin-top: -20px;
+        
+        
+    }
+
+    select {
+        background-color: transparent;
+        border: none;
+        color: white;
+    }
+    
+    
+
+    
+}
+.Arctic h2 {
+    color: rgb(11, 193, 222);
+    outline: none;
+    
+    
+    
+}
+.Arctic h6 {
+    color: rgb(20, 103, 20);
+    outline: none;
+    font-weight: 5px;  
+    margin-left: 1400px;
+
+}
+ 
+.image-container {
+    width: 1510px;
+    height: 600px;
+    background: url(snowboard.jpg);
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.p2 {
+    margin-top: 160px;
+    color: rgb(16, 48, 29);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.p1 {
+    position: relative;
+    top: 155px;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(16, 48, 29);
+    font-size: 40px;
+    letter-spacing: -3px;
+}
+
+.image-container .border {
+    margin-top: 280px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: rgb(37, 83, 66);
+    
+    
+    
+    
+    
+}
+
+
+.Book {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    font-weight: bold;
+    background-color: rgb(134, 168, 11);
+    color: white;
+    border: none;
+   
+
+    
+}
+.Destination {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    border: none;
+    
+}
+.DepartureAirport {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    border: none;
+}
+.Departuredate {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    border: none;
+}
+.Duration {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    border: none;
+}
+.Traveller {
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px 20px;
+    border: none;
+}
+
+.senior-hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: rgb(37, 83, 66);
+    padding: 50px;
+    
+}
+
+.one {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin-top: -10px;
+    
+}
+.two {
+    border: 1px;
+    background-color: aqua;
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    
+}
+
+.three {
+    color: white;
+    
+}
+
+.senior-hero-2 {
+    display: flex;
+    
+    justify-content: space-around;
+    background-color: azure;
+    padding: 40px;
+}
+.lion {
+    font-weight: bold;
+}
+.view {
+    border: none;
+    background-color: rgb(37, 83, 66);
+    padding: 20px 10px 5px;
+    color: white;
+
+}
+.Cozy{
+    font-weight: bold;
+}
+
+.more {
+    
+    border: none;
+    background-color:  rgb(37, 83, 66);
+    padding: 20px 10px 5px;
+    color: white;
+    
+}
+
+.senior-hero-3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+strong {
+    font-size: larger;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dis {
+        background-color: aqua;
+        border: none;
+        padding: 5px 15px;
+        margin-top: 10px;
+}
+
+.image-container-3{
+    background: url(couples\ in\ a\ snow.jpg);
+    width: 1513px;
+    height: 500px;
+    
+
+    
+}
+.image-container-3 h4 {
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+.get-container {
+    background-color:rgb(37, 83, 66);
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.ema {
+    padding: 6px 15px;
+    color: rgb(37, 83, 66);
+    border: none;
+}
+
+.sub {
+    background-color: rgb(134, 168, 11);
+    padding: 6px 9px;
+    border: none;
+}
+
+.trip {
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.down {
+    background-color: rgb(0, 40, 12);
+    padding: 30px;
+    color: aqua;
+    font-size: 20px;
+}
